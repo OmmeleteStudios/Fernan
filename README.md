@@ -5,15 +5,13 @@ I couldnt call it Fernan! cuz it didn't let me add exclamation points lmfao
 
 ---HOW TO DO SHIT---
 
-Use upload file to upload .c3p files for the game. Once a person uploads a file, you MUST wait for the next person to upload a .c3p, and once they do, download that one instead and get rid of the old one. It is recommended you do not give a unique name to any .c3p files issued. ONLY PUSH A .C3P ONCE BEFORE ANOTHER PERSON USES IT.
+Use upload file to upload files for the game. Once a person uploads a file, you MUST wait for the next person to upload a new file, and once they do, download that one instead and get rid of the old one. It is recommended you do NOT give a unique name to any files issued. ONLY PUSH A FILE ONCE BEFORE ANOTHER PERSON USES IT.
 
-To edit a level, go to the level's layout in the layouts tab, and unlock the Colls layer. Do NOT touch any other layer unless you are adding a specific element that is required such as a scene trigger or a Messy Dave (tutorial explainer guy.) Use assets from the levels folder and drag them in to the game to make levels!
+To edit a room, go to it and unlock the Collision layer. Do NOT touch any other layer unless you are adding a specific element that is required such as a Messy Dave (tutorial explainer guy.) Use assets from the mechanics folder and drag them in to the game to make levels!
 
-Messy Daves can be set up by dragging one or copy pasting one into the plat layer of a level. He as a text instance variable where you can edit what he can say specifically!
+Messy Daves can be set up by dragging one or copy pasting one into the instances layer of a room. He as a text instance variable where you can edit what he can say specifically!
 
-To setup a scene trigger, drag one and put it in the scenetriggers layer. Edit the scene instance variable and change it to what the region is supposed to be named, and that's it! The engine I built for changing regions can do the rest.
-
-Finally, to tile a level, go to the decor layer. Pick a tile from the tilemaps folder and draw it in!
+Finally, to tile a level, go to the tiles layer. Pick a tile from the tilemaps folder and draw it in!
 
 It is HIGHLY recommended to only have 1 layer unlocked at a time.
 
